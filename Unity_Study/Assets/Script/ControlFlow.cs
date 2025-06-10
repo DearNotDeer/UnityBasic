@@ -13,11 +13,11 @@ public class ControlFlow : MonoBehaviour
 
     void Start()
     {
-        for(int i = 0; i < 5; i++)
+        /*for(int i = 0; i < 5; i++)
         {
             Debug.Log("반복문이 실행됐어요~:)");
         }
-
+        */
     }
 
     public void Gacha()
